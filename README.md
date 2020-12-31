@@ -8,3 +8,4 @@
 ### 12.30 [TypeScript](https://github.com/Eilhwan/typescript_study/blob/master/12.30_typescript.md)
 - [00.simpleGrammer.js](https://github.com/Eilhwan/typescript_study/blob/master/00.simplegrammer.js)
 - [00.simpleGrammer.ts](https://github.com/Eilhwan/typescript_study/blob/master/00.simplegrammer.ts)
+### 12.31 [tsconfig.json]
