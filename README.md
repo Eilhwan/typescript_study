@@ -12,7 +12,7 @@
 - [04.tsConfig.ts](https://github.com/Eilhwan/typescript_study/blob/master/src/04.tsc/)
 ### 01.04 [object & types](https://github.com/Eilhwan/typescript_study/blob/master/md/01.04_object.md)
 - [05.object.ts](https://github.com/Eilhwan/typescript_study/blob/master/src/05.object.ts/)
-- [04.type_assertion.ts](https://github.com/Eilhwan/typescript_study/blob/master/src/04.type_assertion.ts/)
+- [05.type_assertion.ts](https://github.com/Eilhwan/typescript_study/blob/master/src/05.type_assertion.ts/)
 ### 01.06 [function & method](https://github.com/Eilhwan/typescript_study/blob/master/md/01.06_function_method.md)
 - [06.function_declare.ts](https://github.com/Eilhwan/typescript_study/blob/master/src/06.function_declare.ts/)
 - [06.function_expression.ts](https://github.com/Eilhwan/typescript_study/blob/master/src/06.function_expression.ts/)
